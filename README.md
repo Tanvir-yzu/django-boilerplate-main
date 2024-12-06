@@ -9,15 +9,15 @@ Boilerplate for any django projects with HTML, CSS, Bootstrap, REST API.
 
 1. Create a repository using this template or clone the repository
    ```
-   git clone git@github.com:sajib1066/django-boilerplate.git
+   git clone git@github.com:Tanvir-yzu/django-boilerplate-main.git
    ```
 2. Create a virtual environment
    ```
-   python -m venv venv
+   python -m venv myenv
    ```
 3. Activate the virtual environment
    ```
-   source venv/bin/activate
+   myenv\Scripts\activate
    ```
 4. Install modules
    ```
